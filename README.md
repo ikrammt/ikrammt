@@ -1,12 +1,11 @@
 # 👋 Hey there!
 
-I'm **Ikram Mtimet**, a software engineering student from Tunisia. I'm passionate about building meaningful technology, whether it's an AI system that helps small businesses or a mobile app that makes life easier. I believe in using tech for good and I'm always looking for new ways to grow and collaborate.
+I'm **Ikram Mtimet**, a software engineering student from Tunisia. I'm passionate about building meaningful technology, whether it's an AI system that helps small businesses or a mobile app that makes life easier. I believe in using tech for good, and I'm always looking for new ways to grow and collaborate.
 
 - 🎓 Studying Software Engineering at **Mediterranean Institute Of Technology** (MEDTECH)
-- 🧠 Currently working on **FlowX** an AI-powered workforce and inventory planning system
 - 🌟 Co-lead at **Google Developer Student Clubs SMU**
 - 🎤 Organized **TEDxSouthMediterraneanUniversity** & led the media committee
-- 📄 Recently published my first research paper on **hate speech detection** in Tunisian Arabic. It was presented at the **ICALP 2023** Conference for Arabic NLP and later published in **Springer Nature**
+- 📄 published my first research paper on **hate speech detection** in Tunisian Arabic. It was presented at the **ICALP 2023** Conference for Arabic NLP and later published in **Springer Nature**
 - 💬 Always up for a chat about AI, web apps, or tech community building
 - 🌱 Learning more about machine learning deployment & full-stack development
 
